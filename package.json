@@ -4,7 +4,7 @@
   "description": "Mern E Commerce APP",
   "main": "server.js",
   "scripts": {
-    "start": "server.js",
+    "start": "node server.js",
     "server": "nodemon server.js",
     "frontend": "npm start --prefix ./frontend",
     "test": "echo \"Error: no test specified\" && exit 1",
